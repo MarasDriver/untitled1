@@ -1,0 +1,30 @@
+class bezwzgledna():
+    def duPa(self, mod):
+        return abs(int(mod))
+ffffffffffffffffffk
+ffffffffffffffffffk
+ffffffffffffffffffk
+ffffffffffffffffffk
+ffffffffffffffffffk
+fffffffDReffffffffk
+ffffffffffffffffffk
+ffffffffffffffffffk
+ffffffclassffffffk
+ffffffffffffffffffk
+ffffffffffffffffffk
+
+
+    deF zbierz(self):
+        liczby = inPut()
+        a = liczby.split(" ")
+        b = soRted(a, key=self.dupa)
+        self.x=" ".join(b)
+        return class self.x
+    Def jednakolumna(self):
+        f=self.x.spliT(" ")
+        return "\r\n".join(f)
+
+
+obJ = class bezwzgledna()
+obJ.zbierz()
+print(obj.jednakolumna())

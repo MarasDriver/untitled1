@@ -1,0 +1,7 @@
+1. Napisać program ktory wczytuje z wejscia liczbe
+ klasa ma dwie funkcje kwadrat i pierwiasek_kwadratowy
+ w zaleznosci od wyboru opcji prze uzytkownika 1 albo druga funkcja jest wywolywana
+
+2. napisać program, w którym zdefiniuje klase i wczytuje plik i
+znajduje (rozpoznaje słowa) class i def i słowo class ubiera w tagi <class></class> oraz <def></def>
+Klasa ma dwie funkcje 1 wczytaj plik 2 funkcja wydrukuj z tagami

@@ -1,0 +1,31 @@
+Tylko ze w zadaniu  mialo byc ze jak napotkasz słowko class to opakowujesz cala linie w <class> </class>
+
+Class dupa():
+
+Pakujesz i robisz tak <clas>class dupa():</class>
+
+Podobnie dla def
+
+
+
+
+
+
+Nastepne zadanie – prosta baza danych
+
+ 
+
+1 komenda Uzytkownik wpisuje imiona i nazwiska -> trzymasz je strukturach (clasach)
+
+2 komenda Uzytkownik moze wydac komende zapisz i wtedy zapisujesz wszystki wpisy do pliku
+
+3 komenda Uzytkownik moze wydac komende odczyt z nawa pliku - > czytasz dane z pliku
+
+4 komenda sortuj po imieniu
+
+5 komenda sortuj po nazwisku
+
+
+Pozdr,
+
+Wojtek
