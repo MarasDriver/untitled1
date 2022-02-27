@@ -41,6 +41,8 @@ if o==2:
             print("Facepalm \n")
             time.sleep(2)
             break
+    else:
+        z = x / y
 
 
 
