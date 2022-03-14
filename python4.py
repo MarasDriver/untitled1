@@ -4,20 +4,29 @@ class otoczona():
     def szukaj(self, u):
         czytaj = open(u, "r+")
         zawartość = czytaj.read()
-        print(zawartość)
-
-        zawartość.split(" ")
-        print(zawartość)
         czytaj.close()
-        print(count, "Linijek")
-        zawartość = list(zawartość)
-        count = len((zawartość).readlines())
-        print(zawartość)
+        print("Start\n" + zawartość + "\nKoniec\n")
 
+        count = zawartość.__len__()
 
-        #for i in zawartość:
+        print(count, "Liter")
+        count_lines=(count+1)/81
+        print(count_lines, "Linijek")
 
-            #print("Mam małą literę")
+        #zawartość = list(zawartość)
+        lista_dużych = []
+        for i in zawartość:
+            a=i
+            if i.lower() == i:
+               print("Mam małą literę", i)
+            elif i.upper() == i:
+                print("Mam wielką literę", i)
+                lista_dużych.append(i)
+            else:
+                return lista_dużych
+
+        print(lista_dużych)
+        print(lista_dużych.__len__())
 
 print("Wyberasz plik python4.txt? (t/n)")
 a=input()
