@@ -14,8 +14,8 @@ def is_ipv4(value):
                 if int(i) < 0 or int(i) > 254:
                     print("value should be in range from 0-254")
                     success = 0
-
-            if success:break
+                break
+            if success:
                 return value
             else:
                 print("bad addres type")
