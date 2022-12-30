@@ -7,5 +7,4 @@ class HasloTest(TestCase):
         czytaj = open(r"/hasło.txt", "r+")
         print(czytaj)
         p = defklas()
-
         self.assertEqual('dupa', czytaj)
