@@ -8,6 +8,7 @@ class PostTest(TestCase):
 
         self.assertEqual('Test', p.title)
         self.assertEqual('Test content', p.content)
+        print("To jest print", p.title, p.content)
 
     def test_json(self):
         p = Post('Test', 'Test content')
