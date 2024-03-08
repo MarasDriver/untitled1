@@ -8,7 +8,7 @@ from calnexRest import calnexInit, calnexGet, calnexSet, calnexCreate, calnexDel
 import Setup_Conifguration_file
 import Telnet_OSACalibrationXML
 
-
+adasdasdasdasd
 sys.path.append('//10.12.152.10/calnex100g/RemoteControl/')
 
 # Set instrument IP
